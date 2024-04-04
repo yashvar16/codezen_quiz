@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375586494370",
+    "project_id": "codezenquiz",
+    "storage_bucket": "codezenquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375586494370:android:7cc4550f712e8638a984fb",
+        "android_client_info": {
+          "package_name": "com.example.codezen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCvJW-9zJK9tPLnrE9SuahQgomu0lUuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
